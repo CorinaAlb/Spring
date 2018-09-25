@@ -7,32 +7,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="647dd2c3-37f0-4e8e-86dd-6c4932937643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/CombatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/Demohandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/UserBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/memberShipFlow.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/confirmDetails.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/exception.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/memberDetails.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/spring-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/java/login/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/resources/flow-definition.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/book-search-flow.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/jsp/failure.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/jsp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webapp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springflow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springflow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springflow/src/main/java/login/LoginBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springflow/src/main/java/login/LoginBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springflow/target/SpringWebFlowExample.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springflow/target/SpringWebFlowExample.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springflow/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springflow/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springflow/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../springflow/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringWebFlow/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringWebFlow/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebGlass/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d/d.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/spring-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/springflow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/java/login/LoginBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/java/login/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/resources/flow-definition.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/book-search-flow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/jsp/failure.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/src/main/webapp/flows/jsp/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/target/SpringWebFlowExample.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springflow/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webapp/.idea/vcs.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,8 +171,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -322,7 +325,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537877115575" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537877361074" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -481,16 +484,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537875458632</updated>
-      <workItem from="1537875462249" duration="1603000" />
+      <workItem from="1537875462249" duration="1898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1603000" />
+    <option name="totallyTimeSpent" value="1898000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -498,11 +500,11 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32867134" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -510,7 +512,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.27132866" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46153846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35407725" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,7 +520,7 @@
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.13087249" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.10394456" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -656,8 +658,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
