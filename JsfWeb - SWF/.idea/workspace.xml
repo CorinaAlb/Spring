@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JsfWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea6a35f9-36c4-48f2-a52b-23d3c4511f7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/JSF-SWF-self.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSF-SWF-self/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/java/Molecule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/java/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/java/jsf/FacesHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/resources/JsfMessageResources.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/resources/ValidationMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/parent-flow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/flow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step1.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step2.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step3.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/validation.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/layouts/standard.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/spring/appServlet/controllers-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/spring/appServlet/webflow-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/spring/application-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/WEB-INF/views/home.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/icons/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/icons/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/icons/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/buttons/icons/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/buttons/icons/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/buttons/icons/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/buttons/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/buttons/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/fancy-type/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/fancy-type/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/feed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/im.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/visited.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/icons/xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/link-icons/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/rtl/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/plugins/rtl/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb - Copy/src/main/webapp/styles/blueprint/src/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/main.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/main.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step1.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step1.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step2.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step2.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step3.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step3.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/validation.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/validation.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/flow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step1.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step2.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/step3.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/validation.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/views/home.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JsfWeb/WEB-INF/views/home.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JsfWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/java/configuration/WebFlowConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/java/login/FlowHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/java/web/FaceletViewHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/WEB-INF/config/spring-fc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/WEB-INF/flows/test.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/WEB-INF/logInFlow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsfWithSwf/src/main/webapp/welcome.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OwnMavenSWF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OwnMavenSWF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/java/web/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/java/web/MessageHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/java/web/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/java/web/MessageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/webapp/WEB-INF/flowConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/webapp/WEB-INF/flows/testFlow/testFlow.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/webapp/WEB-INF/flows/testFlow/testFlow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwfFromJsf/src/main/webapp/index.xhtml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JsfWeb___SWF$Glassfish_4_1_2_.ic" NAME="Glassfish 4.1.2. Coverage Results" MODIFIED="1539081184980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-402194469">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="xhtml" value="3" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="XHTML" value="3" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1119" />
+          <entry key="xhtml" value="641" />
+          <entry key="xml" value="172" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1119" />
+          <entry key="XHTML" value="641" />
+          <entry key="XML" value="172" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2015128908">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="demo" value="3" />
+          <entry key="html" value="5" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="6" />
+          <entry key="properties" value="2" />
+          <entry key="xhtml" value="22" />
+          <entry key="xml" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="5" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="Properties" value="2" />
+          <entry key="XHTML" value="22" />
+          <entry key="XML" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="13" />
+          <entry key="xhtml" value="38" />
+          <entry key="xml" value="232" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13" />
+          <entry key="XHTML" value="38" />
+          <entry key="XML" value="232" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="785358514">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="xhtml" value="15" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="XHTML" value="15" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xhtml" value="45" />
+          <entry key="xml" value="130" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XHTML" value="45" />
+          <entry key="XML" value="130" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48880106">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.xhtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.xhtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="292">
+                  <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/main.xhtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step1.xhtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="213">
+                  <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step2.xhtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step3.xhtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/parent-flow.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/flow.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
+        <option value="jsf" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\?xml version\=\&quot;1\.0\&quot; encoding\=\&quot;UTF\-8\&quot;\?\&gt;\n\&lt;\!DOCTYPE html PUBLIC \&quot;\-\/\/W3C\/\/DTD XHTML 1\.0 Transitional\/\/EN\&quot;\n        \&quot;http\:\/\/www\.w3\.org\/TR\/xhtml1\/DTD\/xhtml1\-transitional\.dtd\&quot;\&gt;\n\&lt;html xmlns\=\&quot;http\:\/\/www\.w3\.org\/1999\/xhtml\&quot;\n      xmlns\:h\=\&quot;http\:\/\/xmlns\.jcp\.org\/jsf\/html\&quot;\n      xmlns\:ui\=\&quot;http\:\/\/xmlns\.jcp\.org\/jsf\/facelets\&quot;\n      xmlns\:f\=\&quot;http\:\/\/xmlns\.jcp\.org\/jsf\/core\&quot;\&gt;\n\&lt;f\:view\&gt;\n    \#\{helloJsf\.getMessage\(\)\}\n\&lt;\/f\:view\&gt;\n\n\&lt;h\:body\&gt;\n\&lt;h\:form\&gt;\n    \&lt;h\:commandLink action \= \&quot;\#\{navigationController\.showPage\}\&quot; value \= \&quot;Page1\&quot;\&gt;\n        \&lt;f\:param name \= \&quot;pageId\&quot; value \= \&quot;1\&quot; \/\&gt;\n    \&lt;\/h\:commandLink\&gt;\n    \&lt;h\:commandLink action \= \&quot;\#\{navigationController\.showPage\}\&quot; value \= \&quot;Page2\&quot;\&gt;\n        \&lt;f\:param name \= \&quot;pageId\&quot; value \= \&quot;2\&quot; \/\&gt;\n    \&lt;\/h\:commandLink\&gt;\n\&lt;\/h\:form\&gt;\n\&lt;\/h\:body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>com.tutorialspoint.test.UserData</find>
+      <find>\&lt;\?xml version \= \&quot;1\.0\&quot; encoding \= \&quot;UTF\-8\&quot;\?\&gt;\n\n\&lt;faces\-config\n        xmlns \= \&quot;http\:\/\/java\.sun\.com\/xml\/ns\/javaee\&quot;\n        xmlns\:xsi \= \&quot;http\:\/\/www\.w3\.org\/2001\/XMLSchema\-instance\&quot;\n        xsi\:schemaLocation \= \&quot;http\:\/\/java\.sun\.com\/xml\/ns\/javaee\n   http\:\/\/java\.sun\.com\/xml\/ns\/javaee\/web\-facesconfig_2_0\.xsd\&quot;\n        version \= \&quot;2\.0\&quot;\&gt;\n\n    \&lt;application\&gt;\n        \&lt;message\-bundle\&gt;resources\.messages\.texts\&lt;\/message\-bundle\&gt;\n        \&lt;resource\-bundle\&gt;\n            \&lt;base\-name\&gt;resources\.messages\.texts\&lt;\/base\-name\&gt;\n            \&lt;var\&gt;msg\&lt;\/var\&gt;\n        \&lt;\/resource\-bundle\&gt;\n    \&lt;\/application\&gt;\n\n\&lt;\/faces\-config\&gt;</find>
+      <find>gui</find>
+      <find>Facelet</find>
+      <find>mainForm</find>
+      <find>launch</find>
+      <find>New</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/EasyOnboard/EasyOnboardGIT/onboarder/server" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/web/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/HelloJsf.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/page1.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/page2.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/java/web/NavigationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/MessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/UserData.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/faces-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hello.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/gui.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/dc/gui.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/application-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/FlowHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/controllers-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/flow.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jsf/FacesHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/parent-flow.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/main.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/webflow-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/validation.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/main.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step1.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step2.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step3.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/flow.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JsfWeb Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JsfWeb Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JsfWeb Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>WebflowModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jsf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+              <item name="embedded-flow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsfWeb - SWF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsfWeb - SWF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+              <item name="top-flow-with-embedded-subflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539001911709" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spring-webflow-jsf-integration-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - SWF\src\main\webapp\WEB-INF\flows" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\webapp\WEB-INF\flows" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\resources\messages\texts" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jsf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\java" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\webapp" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\resources" />
+      <recent name="C:\Users\albc\IdeaProjects\JsfWeb - Copy\src\main\webapp\WEB-INF\flows" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Glassfish 4.1.2." type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 4.1.21" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JsfWeb:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="C:\Users\albc\IdeaProjects\server\glassfish4\glassfish\domains\domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JsfWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea6a35f9-36c4-48f2-a52b-23d3c4511f7c" name="Default Changelist" comment="" />
+      <created>1538034747213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538034747213</updated>
+      <workItem from="1538034751513" duration="5649000" />
+      <workItem from="1538112485879" duration="11665000" />
+      <workItem from="1538129207796" duration="739000" />
+      <workItem from="1538376891289" duration="795000" />
+      <workItem from="1538401111955" duration="661000" />
+      <workItem from="1538458607239" duration="2883000" />
+      <workItem from="1538480335050" duration="3474000" />
+      <workItem from="1538547280505" duration="1205000" />
+      <workItem from="1538638573926" duration="679000" />
+      <workItem from="1538720621306" duration="7930000" />
+      <workItem from="1538977673916" duration="18355000" />
+      <workItem from="1539066141399" duration="10422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.49932885" weight="0.32867134" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49946696" weight="0.23497854" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.7185501" weight="0.23712446" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49946696" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49733475" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.32867134" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.49946696" weight="0.32939914" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="JSF" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.15245202" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web-application-config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/page1.xhtml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/UserData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/JsfWeb.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/services-config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/MessageService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Message.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/HelloJsf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/MessageServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/page2.xhtml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/NavigationController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/services-config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/webflow-config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/logback.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hello.xhtml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages/text.demo" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages/demo" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages/texts/demo.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/gui.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dc/gui.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ValidationMessages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/JsfMessageResources.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/styles/blueprint/src/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/controllers-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/FlowHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Molecule.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsf/FacesHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/webflow-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/main.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/validation.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/parent-flow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/main.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step1.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step2.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/step3.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/flow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/embedded-flow/flow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JsfWeb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JsfWeb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

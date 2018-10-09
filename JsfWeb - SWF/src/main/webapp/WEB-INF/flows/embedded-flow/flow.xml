@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow xmlns="http://www.springframework.org/schema/webflow"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/webflow http://www.springframework.org/schema/webflow/spring-webflow.xsd"
+	parent="parent-flow">
+
+	<!--
+		Also see ../parent-flow.xml. 
+	-->
+
+   <!--TODO <transition on="exit" to="exit"/> ?-->
+
+    <view-state id="main">
+		<transition on="previous" to="main" />
+		<transition on="next" to="step1"/>
+        <transition on="exit" to="exit"/>
+	</view-state>
+
+	<view-state id="step1">
+		<transition on="previous" to="main"/>
+		<transition on="next" to="step2"/>
+        <transition on="exit" to="exit"/>
+	</view-state>
+
+	<view-state id="step2">
+		<transition on="previous" to="step1"/>
+		<transition on="next" to="step3"/>
+        <transition on="exit" to="exit"/>
+	</view-state>
+
+	<view-state id="step3">
+		<transition on="previous" to="step2"/>
+		<transition on="next" to="validation"/>
+        <transition on="exit" to="exit"/>
+	</view-state>
+
+	<view-state id="validation">
+		<transition on="previous" to="step3"/>
+		<transition on="finish" to="exit"/>
+        <transition on="exit" to="exit"/>
+	</view-state>
+
+	<end-state id="exit"/>
+</flow>
