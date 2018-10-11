@@ -1,10 +1,10 @@
 package com.javacodegeeks.ultimate;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.EntityTransaction;
-import javax.persistence.Persistence;
-import javax.xml.registry.infomodel.PersonName;
+import com.javacodegeeks.ultimate.objects.Geek;
+import com.javacodegeeks.ultimate.objects.Person;
+
+import javax.persistence.*;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -12,7 +12,7 @@ public class Main {
 
     private static final Logger LOGGER = Logger.getLogger("JPA");
 
-    public static void main() {
+    public static void main(String[] args ) {
         Main main = new Main();
         main.run();
     }
@@ -25,6 +25,8 @@ public class Main {
             factory = Persistence.createEntityManagerFactory("PersistenceUnit");
             entityManager = factory.createEntityManager();
             persistPerson(entityManager);
+            persistGeek(entityManager);
+            executeQuerry(entityManager);
         } catch (Exception e) {
             LOGGER.log(Level.SEVERE, e.getMessage(), e);
         } finally {
@@ -73,5 +75,19 @@ public class Main {
         geek.setFavouriteProgrammingLanguage("Java");
         entityManager.persist(geek);
         transaction.commit();
+    }
+
+    private void executeQuerry(EntityManager entityManager) {
+        TypedQuery<Person> query = entityManager.createQuery("from Person", Person.class);
+        List<Person> resultList = query.getResultList();
+        for (Person person : resultList) {
+            StringBuilder sb = new StringBuilder();
+            sb.append(person.getFirstName()).append(" ").append(person.getLastName());
+            if (person instanceof Geek) {
+                Geek geek = (Geek)person;
+                sb.append(" ").append(geek.getFavouriteProgrammingLanguage());
+            }
+            LOGGER.info(sb.toString());
+        }
     }
 }

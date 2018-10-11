@@ -1,13 +1,13 @@
-package com.javacodegeeks.ultimate;
+package com.javacodegeeks.ultimate.objects;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "T_GEEK")
 public class Geek extends Person {
+
     private String favouriteProgrammingLanguage;
     private List<Project> projects = new ArrayList<Project>();
 
@@ -19,4 +19,10 @@ public class Geek extends Person {
     public void setFavouriteProgrammingLanguage(String favouriteProgrammingLanguage) {
         this.favouriteProgrammingLanguage = favouriteProgrammingLanguage;
     }
+
+    @ManyToMany(mappedBy = "geeks")
+    public List<Project> getProjects() {
+        return projects;
+    }
 }
+
