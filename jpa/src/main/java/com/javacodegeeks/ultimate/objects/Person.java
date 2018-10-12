@@ -1,8 +1,6 @@
 package com.javacodegeeks.ultimate.objects;
 
-import javax.activation.FileTypeMap;
 import javax.persistence.*;
-import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -16,7 +14,6 @@ public class Person {
     private String lastName;
     private IdCard idCard;
     private List<Phone> phones;
-    private List<Project> projects = new ArrayList<Project>();
 
     @Id
     @GeneratedValue
@@ -63,15 +60,5 @@ public class Person {
 
     public void setPhones(List<Phone> phones) {
         this.phones = phones;
-    }
-
-    @ManyToMany
-    @JoinTable(name = "T_GEEK_PROJECT", joinColumns={@JoinColumn(name = "GEEK_ID", referencedColumnName = "ID")})
-    public List<Project> getProjects() {
-        return projects;
-    }
-
-    public void setProjects(List<Project> projects) {
-        this.projects = projects;
     }
 }

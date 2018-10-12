@@ -20,9 +20,17 @@ public class Geek extends Person {
         this.favouriteProgrammingLanguage = favouriteProgrammingLanguage;
     }
 
-    @ManyToMany(mappedBy = "geeks")
+    @ManyToMany
+    @JoinTable(
+            name="T_GEEK_PROJECT",
+            joinColumns={@JoinColumn(name="GEEK_ID", referencedColumnName="ID")},
+            inverseJoinColumns={@JoinColumn(name="PROJECT_ID", referencedColumnName="ID")})
     public List<Project> getProjects() {
         return projects;
+    }
+
+    public void setProjects(List<Project> projects) {
+        this.projects = projects;
     }
 }
 
